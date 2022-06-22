@@ -4,11 +4,6 @@
     box-sizing: border-box;
 }
 
-@font-face{
-    src: url(fonts/static/Oswald-Regular.ttf);
-    font-family: oswald;
-}
-
 body{
     background-image: url(images/outside-pic.jpg);
     height: 100vh;
